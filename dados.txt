@@ -1,0 +1,505 @@
+// 20241106150237
+// https://servidor-servidor-telegram.dpbdp1.easypanel.host/messages/
+
+[
+  {
+    "id": 161,
+    "text": "#MOODENG/USDT Take - Profit\nFUTUROS\nAlvo: 2 ✅ \nLucro: 20,00% 📈 \nPeríodo: 5 minutos",
+    "createdAt": "2024-11-06T13:51:00.595Z"
+  },
+  {
+    "id": 160,
+    "text": "#MOODENG / USDT 🟢 COMPRA\n\n✅ ENTRADA NA ZONA: 0.18822\n\n⚡️ ALAVANCAGEM ISOLADA: Máx. 20x\n\nAlvos: 4% - 20% - 40% - 60% - 80% - 100% - 120% - 140% - 160% - 180% - 200% -\n\n🚫 STOOPLOSS: 90%",
+    "createdAt": "2024-11-06T13:45:48.431Z"
+  },
+  {
+    "id": 159,
+    "text": "#METIS/USDT Take - Profit\nFUTUROS\nAlvo: 1 ✅ \nLucro: 4,20% 📈 \nPeríodo: 2 minutos",
+    "createdAt": "2024-11-06T13:05:33.349Z"
+  },
+  {
+    "id": 158,
+    "text": "#MANA/USDT Take - Profit\nFUTUROS\nAlvo: 1 ✅ \nLucro: 4,00% 📈 \nPeríodo: 9 minutos",
+    "createdAt": "2024-11-06T13:02:59.951Z"
+  },
+  {
+    "id": 157,
+    "text": "#METIS / USDT 🟢 COMPRA\n\n✅ ENTRADA NA ZONA: 42.79\n\n⚡️ ALAVANCAGEM ISOLADA: Máx. 20x\n\nAlvos: 4% - 20% - 40% - 60% - 80% - 100% - 120% - 140% - 160% - 180% - 200% -\n\n🚫 STOOPLOSS: 90%",
+    "createdAt": "2024-11-06T12:58:30.712Z"
+  },
+  {
+    "id": 156,
+    "text": "#MANA / USDT 🟢 COMPRA\n\n✅ ENTRADA NA ZONA: 0.2964\n\n⚡️ ALAVANCAGEM ISOLADA: Máx. 20x\n\nAlvos: 4% - 20% - 40% - 60% - 80% - 100% - 120% - 140% - 160% - 180% - 200% -\n\n🚫 STOOPLOSS: 90%",
+    "createdAt": "2024-11-06T12:51:45.148Z"
+  },
+  {
+    "id": 155,
+    "text": "#UXLINK/USDT Take - Profit\nFUTUROS\nAlvo: 1 ✅ \nLucro: 4,00% 📈 \nPeríodo: 2 minutos",
+    "createdAt": "2024-11-06T12:15:54.556Z"
+  },
+  {
+    "id": 154,
+    "text": "#UXLINK / USDT 🔴 VENDA\n\n✅ ENTRADA NA ZONA: 0.6560\n\n⚡️ ALAVANCAGEM ISOLADA: Máx. 20x\n\nAlvos: 4% - 20% - 40% - 60% - 80% - 100% - 120% - 140% - 160% - 180% - 200% -\n\n🚫 STOOPLOSS: 90%",
+    "createdAt": "2024-11-06T12:09:53.046Z"
+  },
+  {
+    "id": 153,
+    "text": "#ARK/USDT Take - Profit\nFUTUROS\nAlvo: 1 ✅ \nLucro: 60,20% 📈 \nPeríodo: 30 minutos",
+    "createdAt": "2024-11-05T14:20:19.353Z"
+  },
+  {
+    "id": 152,
+    "text": "Saudações Traders, \n\nSinal editado, zona de entrada \n\nÓtimo dia a todos!\n\nAtt Futuros Tech",
+    "createdAt": "2024-11-05T14:19:09.682Z"
+  },
+  {
+    "id": 151,
+    "text": "#ARK / USDT 🟢 COMPRA\n\n✅ ENTRADA NA ZONA: 0.4611\n\n⚡️ ALAVANCAGEM ISOLADA: Máx. 20x\n\nAlvos: 4% - 20% - 40% - 60% - 80% - 100% - 120% - 140% - 160% - 180% - 200% -\n\n🚫 STOOPLOSS: 90%",
+    "createdAt": "2024-11-05T13:42:43.918Z"
+  },
+  {
+    "id": 150,
+    "text": "#LTC/USDT Take - Profit\nFUTUROS\nAlvo: 1 ✅ \nLucro: 4,00% 📈 \nPeríodo: 9 minutos",
+    "createdAt": "2024-11-05T12:50:06.035Z"
+  },
+  {
+    "id": 149,
+    "text": "#LTC / USDT 🟢 COMPRA\n\n✅ ENTRADA NA ZONA: 65.75\n\n⚡️ ALAVANCAGEM ISOLADA: Máx. 20x\n\nAlvos: 4% - 20% - 40% - 60% - 80% - 100% - 120% - 140% - 160% - 180% - 200% -\n\n🚫 STOOPLOSS: 90%",
+    "createdAt": "2024-11-05T12:39:07.426Z"
+  },
+  {
+    "id": 148,
+    "text": "#MASK/USDT Take - Profit\nFUTUROS\nAlvo: 1 ✅ \nLucro: 4,00% 📈 \nPeríodo: 8 minutos",
+    "createdAt": "2024-11-05T12:33:16.725Z"
+  },
+  {
+    "id": 147,
+    "text": "Saudações Traders, \n\nSinal editado, zona de entrada \n\nÓtimo dia a todos!\n\nAtt Futuros Tech",
+    "createdAt": "2024-11-05T12:31:31.883Z"
+  },
+  {
+    "id": 146,
+    "text": "#MASK / USDT 🟢 COMPRA\n\n✅ ENTRADA NA ZONA: 2.8295\n\n⚡️ ALAVANCAGEM ISOLADA: Máx. 20x\n\nAlvos: 4% - 20% - 40% - 60% - 80% - 100% - 120% - 140% - 160% - 180% - 200% -\n\n🚫 STOOPLOSS: 90%",
+    "createdAt": "2024-11-05T12:22:04.260Z"
+  },
+  {
+    "id": 145,
+    "text": "#POPCAT/USDT Take - Profit\nFUTUROS\nAlvo: 1 ✅ \nLucro: 4,00% 📈 \nPeríodo: 16 minutos",
+    "createdAt": "2024-11-05T12:07:45.093Z"
+  },
+  {
+    "id": 144,
+    "text": "#POPCAT / USDT 🔴 VENDA\n\n✅ ENTRADA NA ZONA: 1.3400\n\n⚡️ ALAVANCAGEM ISOLADA: Máx. 20x\n\nAlvos: 4% - 20% - 40% - 60% - 80% - 100% - 120% - 140% - 160% - 180% - 200% -\n\n🚫 STOOPLOSS: 90%",
+    "createdAt": "2024-11-05T11:49:01.135Z"
+  },
+  {
+    "id": 143,
+    "text": "#TROY/USDT Take - Profit\nFUTUROS\nAlvo: 8 ✅ \nLucro: 140,20% 📈 \nPeríodo: 14 minutos",
+    "createdAt": "2024-11-05T01:52:43.301Z"
+  },
+  {
+    "id": 142,
+    "text": "#TROY / USDT 🟢 COMPRA\n\n✅ ENTRADA NA ZONA: 0.004078\n\n⚡️ ALAVANCAGEM ISOLADA: Máx. 20x\n\nAlvos: 4% - 20% - 40% - 60% - 80% - 100% - 120% - 140% - 160% - 180% - 200% -\n\n🚫 STOOPLOSS: 90%",
+    "createdAt": "2024-11-05T01:30:30.451Z"
+  },
+  {
+    "id": 141,
+    "text": "#SAGA/USDT Take - Profit\nFUTUROS\nAlvo: 1 ✅ \nLucro: 4,00% 📈 \nPeríodo: 29 minutos",
+    "createdAt": "2024-11-04T18:08:18.514Z"
+  },
+  {
+    "id": 140,
+    "text": "#BNX/USDT cancelado ❌\nMeta alcançada antes de entrar na zona de entrada<\n\n@FuturosTech",
+    "createdAt": "2024-11-04T17:38:58.308Z"
+  },
+  {
+    "id": 139,
+    "text": "#SAGA / USDT 🟢 COMPRA\n\n✅ ENTRADA NA ZONA: 1.7130\n\n⚡️ ALAVANCAGEM ISOLADA: Máx. 20x\n\nAlvos: 4% - 20% - 40% - 60% - 80% - 100% - 120% - 140% - 160% - 180% - 200% -\n\n🚫 STOOPLOSS: 90%",
+    "createdAt": "2024-11-04T17:36:45.652Z"
+  },
+  {
+    "id": 138,
+    "text": "#BNX / USDT 🟢 COMPRA\n\n✅ ENTRADA NA ZONA: 0.4730\n\n⚡️ ALAVANCAGEM ISOLADA: Máx. 20x\n\nAlvos: 4% - 20% - 40% - 60% - 80% - 100% - 120% - 140% - 160% - 180% - 200% -\n\n🚫 STOOPLOSS: 90%",
+    "createdAt": "2024-11-04T17:08:59.706Z"
+  },
+  {
+    "id": 137,
+    "text": "#UXLINK/USDT Take - Profit\nFUTUROS\nAlvo: 1 ✅ \nLucro: 4,00% 📈 \nPeríodo: 19 minutos",
+    "createdAt": "2024-11-04T13:46:46.803Z"
+  },
+  {
+    "id": 136,
+    "text": "#UXLINK / USDT 🟢 COMPRA\n\n✅ ENTRADA NA ZONA: 0.5566\n\n⚡️ ALAVANCAGEM ISOLADA: Máx. 20x\n\nAlvos: 4% - 20% - 40% - 60% - 80% - 100% - 120% - 140% - 160% - 180% - 200% -\n\n🚫 STOOPLOSS: 90%",
+    "createdAt": "2024-11-04T13:19:49.166Z"
+  },
+  {
+    "id": 135,
+    "text": "#ARB/USDT Take - Profit\nFUTUROS\nAlvo: 1 ✅ \nLucro: 4,20% 📈 \nPeríodo: 1 Hora 15 minutos",
+    "createdAt": "2024-11-04T13:06:36.427Z"
+  },
+  {
+    "id": 134,
+    "text": "#SCR/USDT Take - Profit\nFUTUROS\nAlvo: 1 ✅ \nLucro: 4,20% 📈 \nPeríodo: 1 minuto",
+    "createdAt": "2024-11-04T12:13:32.736Z"
+  },
+  {
+    "id": 133,
+    "text": "#SCR / USDT 🟢 COMPRA\n\n✅ ENTRADA NA ZONA: 0.5836\n\n⚡️ ALAVANCAGEM ISOLADA: Máx. 20x\n\nAlvos: 4% - 20% - 40% - 60% - 80% - 100% - 120% - 140% - 160% - 180% - 200% -\n\n🚫 STOOPLOSS: 90%",
+    "createdAt": "2024-11-04T12:09:18.039Z"
+  },
+  {
+    "id": 132,
+    "text": "#ARB / USDT 🟢 COMPRA\n\n✅ ENTRADA NA ZONA: 0.4858\n\n⚡️ ALAVANCAGEM ISOLADA: Máx. 20x\n\nAlvos: 4% - 20% - 40% - 60% - 80% - 100% - 120% - 140% - 160% - 180% - 200% -\n\n🚫 STOOPLOSS: 90%",
+    "createdAt": "2024-11-04T11:46:13.619Z"
+  },
+  {
+    "id": 131,
+    "text": "#RARE / USDT 🟢 COMPRA\n\n✅ ENTRADA NA ZONA: 0.10666\n\n⚡️ ALAVANCAGEM ISOLADA: Máx. 20x\n\nAlvos: 4% - 20% - 40% - 60% - 80% - 100% - 120% - 140% - 160% - 180% - 200% -\n\n🚫 STOOPLOSS: 90%",
+    "createdAt": "2024-11-04T09:49:14.612Z"
+  },
+  {
+    "id": 130,
+    "text": "#ZEC/USDT Take - Profit\nFUTUROS\nAlvo: 2 ✅ \nLucro: 20,00% 📈 \nPeríodo: 8 minutos",
+    "createdAt": "2024-11-04T01:08:45.696Z"
+  },
+  {
+    "id": 129,
+    "text": "#ZEC / USDT 🟢 COMPRA\n\n✅ ENTRADA NA ZONA: 36.24\n\n⚡️ ALAVANCAGEM ISOLADA: Máx. 20x\n\nAlvos: 4% - 20% - 40% - 60% - 80% - 100% - 120% - 140% - 160% - 180% - 200% -\n\n🚫 STOOPLOSS: 90%",
+    "createdAt": "2024-11-04T00:47:21.874Z"
+  },
+  {
+    "id": 128,
+    "text": "#GHST/USDT Take - Profit\nFUTUROS\nAlvo: 2 ✅ \nLucro: 22,20% 📈 \nPeríodo: 5 minutos",
+    "createdAt": "2024-11-03T17:51:32.796Z"
+  },
+  {
+    "id": 127,
+    "text": "#GHST / USDT 🟢 COMPRA\n\n✅ ENTRADA NA ZONA: 0.808\n\n⚡️ ALAVANCAGEM ISOLADA: Máx. 20x\n\nAlvos: 4% - 20% - 40% - 60% - 80% - 100% - 120% - 140% - 160% - 180% - 200% -\n\n🚫 STOOPLOSS: 90%",
+    "createdAt": "2024-11-03T17:46:31.193Z"
+  },
+  {
+    "id": 126,
+    "text": "#DODOX/USDT Take - Profit\nFUTUROS\nAlvo: 1 ✅ \nLucro: 4,00% 📈 \nPeríodo: 53 minutos",
+    "createdAt": "2024-11-03T17:09:27.860Z"
+  },
+  {
+    "id": 125,
+    "text": "Saudações Traders,\n\nMover o 🚫 STOOPLOSS para zona de entrada.\n\nAtualização em breve, \n\nBoas operações a todos!\n\nAtt Futuros Tech",
+    "createdAt": "2024-11-03T17:06:48.217Z"
+  },
+  {
+    "id": 124,
+    "text": "#DODOX / USDT 🟢 COMPRA\n\n✅ ENTRADA NA ZONA: 0.099643\n\n⚡️ ALAVANCAGEM ISOLADA: Máx. 20x\n\nAlvos: 4% - 20% - 40% - 60% - 80% - 100% - 120% - 140% - 160% - 180% - 200% -\n\n🚫 STOOPLOSS: 90%",
+    "createdAt": "2024-11-03T16:15:27.888Z"
+  },
+  {
+    "id": 123,
+    "text": "#GTC/USDT cancelado ❌\nMeta alcançada antes de entrar na zona de entrada<\n\n@FuturosTech",
+    "createdAt": "2024-11-03T16:06:05.334Z"
+  },
+  {
+    "id": 122,
+    "text": "#SOL/USDT Take - Profit\nFUTUROS\nAlvo: 1 ✅ \nLucro: 4,00% 📈 \nPeríodo: 15 minutos",
+    "createdAt": "2024-11-03T15:48:40.360Z"
+  },
+  {
+    "id": 121,
+    "text": "#GTC / USDT 🟢 COMPRA\n\n✅ ENTRADA NA ZONA: 0.528\n\n⚡️ ALAVANCAGEM ISOLADA: Máx. 20x\n\nAlvos: 4% - 20% - 40% - 60% - 80% - 100% - 120% - 140% - 160% - 180% - 200% -\n\n🚫 STOOPLOSS: 90%",
+    "createdAt": "2024-11-03T15:43:23.790Z"
+  },
+  {
+    "id": 120,
+    "text": "#APE/USDT Take - Profit\nFUTUROS\nAlvo: 2 ✅ \nLucro: 20,00% 📈 \nPeríodo: 4 minutos",
+    "createdAt": "2024-11-03T15:41:29.252Z"
+  },
+  {
+    "id": 119,
+    "text": "Saudações Traders, \n\nSinal editado, zona de entrada \n\nÓtimo dia a todos!\n\nAtt Futuros Tech",
+    "createdAt": "2024-11-03T15:40:02.428Z"
+  },
+  {
+    "id": 118,
+    "text": "#APE / USDT 🟢 COMPRA\n\n✅ ENTRADA NA ZONA: 0.9015\n\n⚡️ ALAVANCAGEM ISOLADA: Máx. 20x\n\nAlvos: 4% - 20% - 40% - 60% - 80% - 100% - 120% - 140% - 160% - 180% - 200% -\n\n🚫 STOOPLOSS: 90%",
+    "createdAt": "2024-11-03T15:36:19.681Z"
+  },
+  {
+    "id": 117,
+    "text": "#SOL / USDT 🟢 COMPRA\n\n✅ ENTRADA NA ZONA: 157.91\n\n⚡️ ALAVANCAGEM ISOLADA: Máx. 20x\n\nAlvos: 4% - 20% - 40% - 60% - 80% - 100% - 120% - 140% - 160% - 180% - 200% -\n\n🚫 STOOPLOSS: 90%",
+    "createdAt": "2024-11-03T15:32:28.839Z"
+  },
+  {
+    "id": 116,
+    "text": "#CHR/USDT Take - Profit\nFUTUROS\nAlvo: 1 ✅ \nLucro: 4,00% 📈 \nPeríodo: 1 minuto",
+    "createdAt": "2024-11-03T12:20:20.733Z"
+  },
+  {
+    "id": 115,
+    "text": "#CHR / USDT 🟢 COMPRA\n\n✅ ENTRADA NA ZONA: 0.1492\n\n⚡️ ALAVANCAGEM ISOLADA: Máx. 20x\n\nAlvos: 4% - 20% - 40% - 60% - 80% - 100% - 120% - 140% - 160% - 180% - 200% -\n\n🚫 STOOPLOSS: 90%",
+    "createdAt": "2024-11-03T12:13:45.674Z"
+  },
+  {
+    "id": 114,
+    "text": "#SANTOS/USDT Take - Profit\nFUTUROS\nAlvo: 1 ✅ \nLucro: 4,20% 📈 \nPeríodo: 1 Hora 5 minutos",
+    "createdAt": "2024-11-02T13:17:54.750Z"
+  },
+  {
+    "id": 113,
+    "text": "#BICO/USDT Take - Profit\nFUTUROS\nAlvo: 1 ✅ \nLucro: 4,40% 📈 \nPeríodo: 8 minutos",
+    "createdAt": "2024-11-02T12:55:35.254Z"
+  },
+  {
+    "id": 112,
+    "text": "#BICO / USDT 🟢 COMPRA\n\n✅ ENTRADA NA ZONA: 0.2272\n\n⚡️ ALAVANCAGEM ISOLADA: Máx. 20x\n\nAlvos: 4% - 20% - 40% - 60% - 80% - 100% - 120% - 140% - 160% - 180% - 200% -\n\n🚫 STOOPLOSS: 90%",
+    "createdAt": "2024-11-02T12:46:23.941Z"
+  },
+  {
+    "id": 111,
+    "text": "#NEIROETH/USDT Take - Profit\nFUTUROS\nAlvo: 1 ✅ \nLucro: 4,60% 📈 \nPeríodo: 3 minutos",
+    "createdAt": "2024-11-02T12:42:19.399Z"
+  },
+  {
+    "id": 110,
+    "text": "Saudações Traders, \n\nSinal editado, zona de entrada \n\nÓtimo dia a todos!\n\nAtt Futuros Tech",
+    "createdAt": "2024-11-02T12:28:00.147Z"
+  },
+  {
+    "id": 109,
+    "text": "#NEIROETH / USDT 🟢 COMPRA\n\n✅ ENTRADA NA ZONA: 0.0865\n\n⚡️ ALAVANCAGEM ISOLADA: Máx. 20x\n\nAlvos: 4% - 20% - 40% - 60% - 80% - 100% - 120% - 140% - 160% - 180% - 200% -\n\n🚫 STOOPLOSS: 90%",
+    "createdAt": "2024-11-02T12:26:19.832Z"
+  },
+  {
+    "id": 108,
+    "text": "#RARE/USDT Take - Profit\nFUTUROS\nAlvo: 2 ✅ \nLucro: 21,20% 📈 \nPeríodo: 3 minutos",
+    "createdAt": "2024-11-02T12:12:17.476Z"
+  },
+  {
+    "id": 107,
+    "text": "#RARE / USDT 🟢 COMPRA\n\n✅ ENTRADA NA ZONA: 0.1225\n\n⚡️ ALAVANCAGEM ISOLADA: Máx. 20x\n\nAlvos: 4% - 20% - 40% - 60% - 80% - 100% - 120% - 140% - 160% - 180% - 200% -\n\n🚫 STOOPLOSS: 90%",
+    "createdAt": "2024-11-02T12:07:42.872Z"
+  },
+  {
+    "id": 106,
+    "text": "#SANTOS / USDT 🟢 COMPRA\n\n✅ ENTRADA NA ZONA: 4.359\n\n⚡️ ALAVANCAGEM ISOLADA: Máx. 20x\n\nAlvos: 4% - 20% - 40% - 60% - 80% - 100% - 120% - 140% - 160% - 180% - 200% -\n\n🚫 STOOPLOSS: 90%",
+    "createdAt": "2024-11-02T12:06:00.722Z"
+  },
+  {
+    "id": 105,
+    "text": "#OGN/USDT Take - Profit\nFUTUROS\nAlvo: 2 ✅ \nLucro: 20,60% 📈 \nPeríodo: 2 minutos",
+    "createdAt": "2024-11-02T10:34:30.888Z"
+  },
+  {
+    "id": 104,
+    "text": "#OGN / USDT 🟢 COMPRA\n\n✅ ENTRADA NA ZONA: 0.0973\n\n⚡️ ALAVANCAGEM ISOLADA: Máx. 20x\n\nAlvos: 4% - 20% - 40% - 60% - 80% - 100% - 120% - 140% - 160% - 180% - 200% -\n\n🚫 STOOPLOSS: 90%",
+    "createdAt": "2024-11-02T10:28:10.206Z"
+  },
+  {
+    "id": 103,
+    "text": "#RARE/USDT cancelado ❌\nMeta alcançada antes de entrar na zona de entrada<\n\n@FuturosTech",
+    "createdAt": "2024-11-02T01:03:46.083Z"
+  },
+  {
+    "id": 102,
+    "text": "#RARE / USDT 🟢 COMPRA\n\n✅ ENTRADA NA ZONA: 0.1276\n\n⚡️ ALAVANCAGEM ISOLADA: Máx. 20x\n\nAlvos: 4% - 20% - 40% - 60% - 80% - 100% - 120% - 140% - 160% - 180% - 200% -\n\n🚫 STOOPLOSS: 90%",
+    "createdAt": "2024-11-02T00:48:36.295Z"
+  },
+  {
+    "id": 101,
+    "text": "#ENA/USDT Take - Profit\nFUTUROS\nAlvo: 1 ✅ \nLucro: 4,40% 📈 \nPeríodo: 16 minutos",
+    "createdAt": "2024-11-01T21:49:01.313Z"
+  },
+  {
+    "id": 100,
+    "text": "#SYN/USDT Take - Profit\nFUTUROS\nAlvo: 1 ✅ \nLucro: 4,20% 📈 \nPeríodo: 13 minutos",
+    "createdAt": "2024-11-01T21:44:50.642Z"
+  },
+  {
+    "id": 99,
+    "text": "#SYN / USDT 🟢 COMPRA\n\n✅ ENTRADA NA ZONA: 0.4805\n\n⚡️ ALAVANCAGEM ISOLADA: Máx. 20x\n\nAlvos: 4% - 20% - 40% - 60% - 80% - 100% - 120% - 140% - 160% - 180% - 200% -\n\n🚫 STOOPLOSS: 90%",
+    "createdAt": "2024-11-01T21:28:31.049Z"
+  },
+  {
+    "id": 98,
+    "text": "#ENA / USDT 🟢 COMPRA\n\n✅ ENTRADA NA ZONA: 0.3626\n\n⚡️ ALAVANCAGEM ISOLADA: Máx. 20x\n\nAlvos: 4% - 20% - 40% - 60% - 80% - 100% - 120% - 140% - 160% - 180% - 200% -\n\n🚫 STOOPLOSS: 90%",
+    "createdAt": "2024-11-01T21:25:54.207Z"
+  },
+  {
+    "id": 97,
+    "text": "#BAND/USDT cancelado ❌\nMeta alcançada antes de entrar na zona de entrada<\n\n@FuturosTech",
+    "createdAt": "2024-11-01T13:55:38.218Z"
+  },
+  {
+    "id": 96,
+    "text": "#TROY/USDT Take - Profit\nFUTUROS\nAlvo: 2 ✅ \nLucro: 20,00% 📈 \nPeríodo: 27 minutos",
+    "createdAt": "2024-11-01T13:39:08.804Z"
+  },
+  {
+    "id": 95,
+    "text": "#TROY / USDT 🟢 COMPRA\n\n✅ ENTRADA NA ZONA: 0.003050\n\n⚡️ ALAVANCAGEM ISOLADA: Máx. 20x\n\nAlvos: 4% - 20% - 40% - 60% - 80% - 100% - 120% - 140% - 160% - 180% - 200% -\n\n🚫 STOOPLOSS: 90%",
+    "createdAt": "2024-11-01T13:11:11.443Z"
+  },
+  {
+    "id": 94,
+    "text": "#SUI/USDT Take - Profit\nFUTUROS\nAlvo: 2 ✅ \nLucro: 20,00% 📈 \nPeríodo: 30 minutos",
+    "createdAt": "2024-11-01T12:34:16.521Z"
+  },
+  {
+    "id": 93,
+    "text": "#BAND / USDT 🟢 COMPRA\n\n✅ ENTRADA NA ZONA: 1.0661\n\n⚡️ ALAVANCAGEM ISOLADA: Máx. 20x\n\nAlvos: 4% - 20% - 40% - 60% - 80% - 100% - 120% - 140% - 160% - 180% - 200% -\n\n🚫 STOOPLOSS: 90%",
+    "createdAt": "2024-11-01T12:07:07.721Z"
+  },
+  {
+    "id": 92,
+    "text": "#SUI / USDT 🟢 COMPRA\n\n✅ ENTRADA NA ZONA: 1.9495\n\n⚡️ ALAVANCAGEM ISOLADA: Máx. 20x\n\nAlvos: 4% - 20% - 40% - 60% - 80% - 100% - 120% - 140% - 160% - 180% - 200% -\n\n🚫 STOOPLOSS: 90%",
+    "createdAt": "2024-11-01T12:02:17.202Z"
+  },
+  {
+    "id": 91,
+    "text": "#SANTOS/USDT cancelado ❌\nMeta alcançada antes de entrar na zona de entrada<\n\n@FuturosTech",
+    "createdAt": "2024-11-01T11:32:23.011Z"
+  },
+  {
+    "id": 90,
+    "text": "#SANTOS / USDT 🟢 COMPRA\n\n✅ ENTRADA NA ZONA: 4.600\n\n⚡️ ALAVANCAGEM ISOLADA: Máx. 20x\n\nAlvos: 4% - 20% - 40% - 60% - 80% - 100% - 120% - 140% - 160% - 180% - 200% -\n\n🚫 STOOPLOSS: 90%",
+    "createdAt": "2024-11-01T11:16:08.077Z"
+  },
+  {
+    "id": 89,
+    "text": "#SANTOS / USDT 🟢 COMPRA\n\n✅ ENTRADA NA ZONA: 4.600\n\n⚡️ ALAVANCAGEM ISOLADA: Máx. 20x\n\nAlvos: 4% - 20% - 40% - 60% - 80% - 100% - 120% - 140% - 160% - 180% - 200% -\n\n🚫 STOOPLOSS: 90%",
+    "createdAt": "2024-11-01T11:15:50.681Z"
+  },
+  {
+    "id": 88,
+    "text": "#IMX/USDT Take - Profit\nFUTUROS\nAlvo: 1 ✅ \nLucro: 4,00% 📈 \nPeríodo: 2 minutos",
+    "createdAt": "2024-10-31T21:10:50.616Z"
+  },
+  {
+    "id": 87,
+    "text": "#IMX / USDT 🟢 COMPRA\n\n✅ ENTRADA NA ZONA: 1.2264\n\n⚡️ ALAVANCAGEM ISOLADA: Máx. 20x\n\nAlvos: 4% - 20% - 40% - 60% - 80% - 100% - 120% - 140% - 160% - 180% - 200% -\n\n🚫 STOOPLOSS: 90%",
+    "createdAt": "2024-10-31T21:08:30.162Z"
+  },
+  {
+    "id": 86,
+    "text": "#SYN/USDT Take - Profit\nFUTUROS\nAlvo: 1 ✅ \nLucro: 4,20% 📈 \nPeríodo: 28 minutos",
+    "createdAt": "2024-10-31T20:03:37.494Z"
+  },
+  {
+    "id": 85,
+    "text": "#SYS / USDT 🟢 COMPRA\n\n✅ ENTRADA NA ZONA: 0.5212\n\n⚡️ ALAVANCAGEM ISOLADA: Máx. 20x\n\nAlvos: 4% - 20% - 40% - 60% - 80% - 100% - 120% - 140% - 160% - 180% - 200% -\n\n🚫 STOOPLOSS: 90%",
+    "createdAt": "2024-10-31T19:32:02.254Z"
+  },
+  {
+    "id": 84,
+    "text": "#DOGS/USDT Take - Profit\nFUTUROS\nAlvo: 1 ✅ \nLucro: 4,20% 📈 \nPeríodo: 23 minutos",
+    "createdAt": "2024-10-31T19:29:45.707Z"
+  },
+  {
+    "id": 83,
+    "text": "Saudações Traders, \n\nSinal editado, zona de entrada \n\nÓtimo dia a todos!\n\nAtt Futuros Tech",
+    "createdAt": "2024-10-31T19:14:26.382Z"
+  },
+  {
+    "id": 82,
+    "text": "#DOGS / USDT 🟢 COMPRA\n\n✅ ENTRADA NA ZONA: 0.05803\n\n⚡️ ALAVANCAGEM ISOLADA: Máx. 20x\n\nAlvos: 4% - 20% - 40% - 60% - 80% - 100% - 120% - 140% - 160% - 180% - 200% -\n\n🚫 STOOPLOSS: 90%",
+    "createdAt": "2024-10-31T19:05:05.012Z"
+  },
+  {
+    "id": 81,
+    "text": "#ARPA/USDT Take - Profit\nFUTUROS\nAlvo: 1 ✅ \nLucro: 4,00% 📈 \nPeríodo: 5 Horas 20 minutos",
+    "createdAt": "2024-10-31T16:53:33.146Z"
+  },
+  {
+    "id": 80,
+    "text": "#CELO/USDT Take - Profit\nFUTUROS\nAlvo: 1 ✅ \nLucro: 6,20% 📈 \nPeríodo: 2 minutos",
+    "createdAt": "2024-10-31T14:27:29.026Z"
+  },
+  {
+    "id": 79,
+    "text": "#CELO / USDT 🟢 COMPRA\n\n✅ ENTRADA NA ZONA: 0.635\n\n⚡️ ALAVANCAGEM ISOLADA: Máx. 20x\n\nAlvos: 4% - 20% - 40% - 60% - 80% - 100% - 120% - 140% - 160% - 180% - 200% -\n\n🚫 STOOPLOSS: 90%",
+    "createdAt": "2024-10-31T14:24:05.939Z"
+  },
+  {
+    "id": 78,
+    "text": "Saudações Traders,\n\nAinda instável.\n\nFechar #ETC na zona de entrada.\n\nAtt Futuros Tech",
+    "createdAt": "2024-10-31T14:12:44.455Z"
+  },
+  {
+    "id": 77,
+    "text": "#TROY / USDT 🟢 COMPRA\n\n✅ ENTRADA NA ZONA: 0.003004\n\n⚡️ ALAVANCAGEM ISOLADA: Máx. 20x\n\nAlvos: 4% - 20% - 40% - 60% - 80% - 100% - 120% - 140% - 160% - 180% - 200% -\n\n🚫 STOOPLOSS: 90%",
+    "createdAt": "2024-10-31T14:09:27.420Z"
+  },
+  {
+    "id": 76,
+    "text": "#ETC / USDT 🟢 COMPRA\n\n✅ ENTRADA NA ZONA: 19.280\n\n⚡️ ALAVANCAGEM ISOLADA: Máx. 20x\n\nAlvos: 4% - 20% - 40% - 60% - 80% - 100% - 120% - 140% - 160% - 180% - 200% -\n\n🚫 STOOPLOSS: 90%",
+    "createdAt": "2024-10-31T13:03:21.142Z"
+  },
+  {
+    "id": 75,
+    "text": "#NEIROETH/USDT Take - Profit\nFUTUROS\nAlvo: 1 ✅ \nLucro: 4,20% 📈 \nPeríodo: 20 minutos",
+    "createdAt": "2024-10-31T12:53:10.382Z"
+  },
+  {
+    "id": 74,
+    "text": "#NEIROETH / USDT 🟢 COMPRA\n\n✅ ENTRADA NA ZONA: 0.0962\n\n⚡️ ALAVANCAGEM ISOLADA: Máx. 20x\n\nAlvos: 4% - 20% - 40% - 60% - 80% - 100% - 120% - 140% - 160% - 180% - 200% -\n\n🚫 STOOPLOSS: 90%",
+    "createdAt": "2024-10-31T12:31:58.463Z"
+  },
+  {
+    "id": 73,
+    "text": "#GOAT/USDT Take - Profit\nFUTUROS\nAlvo: 1 ✅ \nLucro: 4,20% 📈 \nPeríodo: 2 minutos",
+    "createdAt": "2024-10-31T12:28:25.020Z"
+  },
+  {
+    "id": 72,
+    "text": "#GOAT / USDT 🟢 COMPRA\n\n✅ ENTRADA NA ZONA: 0.5290\n\n⚡️ ALAVANCAGEM ISOLADA: Máx. 20x\n\nAlvos: 4% - 20% - 40% - 60% - 80% - 100% - 120% - 140% - 160% - 180% - 200% -\n\n🚫 STOOPLOSS: 90%",
+    "createdAt": "2024-10-31T12:25:05.081Z"
+  },
+  {
+    "id": 71,
+    "text": "Saudações Traders,\n\nAinda instável.\n\nFechar #BIGTIME na zona de entrada.\n\nAtt Futuros Tech",
+    "createdAt": "2024-10-31T12:20:02.439Z"
+  },
+  {
+    "id": 70,
+    "text": "#MOODENG/USDT Take - Profit\nFUTUROS\nAlvo: 1 ✅ \nLucro: 4,00% 📈 \nPeríodo: 16 minutos",
+    "createdAt": "2024-10-31T12:18:48.647Z"
+  },
+  {
+    "id": 69,
+    "text": "#MOODENG / USDT 🟢 COMPRA\n\n✅ ENTRADA NA ZONA: 0.22852\n\n⚡️ ALAVANCAGEM ISOLADA: Máx. 20x\n\nAlvos: 4% - 20% - 40% - 60% - 80% - 100% - 120% - 140% - 160% - 180% - 200% -\n\n🚫 STOOPLOSS: 90%",
+    "createdAt": "2024-10-31T11:30:14.646Z"
+  },
+  {
+    "id": 68,
+    "text": "#BIGTIME / USDT 🟢 COMPRA\n\n✅ ENTRADA NA ZONA: 0.16295\n\n⚡️ ALAVANCAGEM ISOLADA: Máx. 20x\n\nAlvos: 4% - 20% - 40% - 60% - 80% - 100% - 120% - 140% - 160% - 180% - 200% -\n\n🚫 STOOPLOSS: 90%",
+    "createdAt": "2024-10-31T11:02:58.121Z"
+  },
+  {
+    "id": 67,
+    "text": "#ARPA / USDT 🟢 COMPRA\n\n✅ ENTRADA NA ZONA: 0.04611\n\n⚡️ ALAVANCAGEM ISOLADA: Máx. 20x\n\nAlvos: 4% - 20% - 40% - 60% - 80% - 100% - 120% - 140% - 160% - 180% - 200% -\n\n🚫 STOOPLOSS: 90%",
+    "createdAt": "2024-10-31T10:53:39.969Z"
+  },
+  {
+    "id": 66,
+    "text": "#YFI/USDT Take - Profit\nFUTUROS\nAlvo: 2 ✅ \nLucro: 20,00% 📈 \nPeríodo: 1 Hora 15 minutos",
+    "createdAt": "2024-10-30T14:18:15.023Z"
+  },
+  {
+    "id": 65,
+    "text": "#ARB/USDT Take - Profit\nFUTUROS\nAlvo: 1 ✅ \nLucro: 4,00% 📈 \nPeríodo: 21 minutos",
+    "createdAt": "2024-10-30T13:47:18.158Z"
+  },
+  {
+    "id": 64,
+    "text": "#ARB / USDT 🟢 COMPRA\n\n✅ ENTRADA NA ZONA: 0.5458\n\n⚡️ ALAVANCAGEM ISOLADA: Máx. 20x\n\nAlvos: 4% - 20% - 40% - 60% - 80% - 100% - 120% - 140% - 160% - 180% - 200% -\n\n🚫 STOOPLOSS: 90%",
+    "createdAt": "2024-10-30T13:26:00.239Z"
+  },
+  {
+    "id": 63,
+    "text": "#YFI / USDT 🟢 COMPRA\n\n✅ ENTRADA NA ZONA: 4.902\n\n⚡️ ALAVANCAGEM ISOLADA: Máx. 20x\n\nAlvos: 4% - 20% - 40% - 60% - 80% - 100% - 120% - 140% - 160% - 180% - 200% -\n\n🚫 STOOPLOSS: 90%",
+    "createdAt": "2024-10-30T12:43:45.366Z"
+  },
+  {
+    "id": 62,
+    "text": "#AXS/USDT Take - Profit\nFUTUROS\nAlvo: 1 ✅ \nLucro: 4,00% 📈 \nPeríodo: 31 minutos",
+    "createdAt": "2024-10-30T12:26:26.724Z"
+  }
+]
